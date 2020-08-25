@@ -1,2 +1,3 @@
-# Big-Data-NBA-Research-Paper
-xploring the characteristics of teams and players and predicting the possibility of wining and going to playoffs
+# Big Data NBA Research Paper
+Explored the characteristics of teams and players and predicted the possibility of wining and going to playoffs in R
+
